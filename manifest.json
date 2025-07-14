@@ -7,12 +7,12 @@
   "theme_color": "#d0eaff",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Facebook_icon_192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Blisk-logo-512-512-background-transparent.png",
       "sizes": "512x512",
       "type": "image/png"
     }
