@@ -3,8 +3,8 @@ const ASSETS_TO_CACHE = [
   './',
   './index.html',
   './manifest.json',
-  './icon-192.png',
-  './icon-512.png'
+  'https://upload.wikimedia.org/wikipedia/commons/3/3e/Facebook_icon_192.png',
+  'https://upload.wikimedia.org/wikipedia/commons/2/2f/Blisk-logo-512-512-background-transparent.png'
 ];
 
 self.addEventListener('install', event => {
